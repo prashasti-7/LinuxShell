@@ -7,7 +7,7 @@
 #include <fcntl.h>
 #include <dirent.h>
 #include <sys/wait.h>
-#include <pthread.h>
+//#include <pthread.h>
 
 #define MAX_INPUT_SIZE 1024
 #define MAX_TOKEN_SIZE 64
