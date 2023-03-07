@@ -1,4 +1,4 @@
-# Linux Shell
+# Linux Shell 🐚
 
 Hello! This is a basic Linux Shell made using standard C libraries including Linux syscalls such as fork(), exec() and wait()
 
